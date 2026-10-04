@@ -1,16 +1,25 @@
-# AI爬塔地图修改版
+# AI爬塔地图修改版 v2
 
-这是转职界面、三转觉醒、隐藏职业和冥想修复的测试版地图。
+这是转职界面、三转觉醒、隐藏职业和冥想修复的测试地图。**v2 修复了 v1 中发现的技能对象依赖缺陷；尚待 KK 客户端实机确认加载结果。**
 
 ## 下载地图
 
-[直接下载 .w3x 地图](https://github.com/Cola0528/AI-/raw/refs/heads/main/maps/AI-Tower-Class-Awakening-Test.w3x)
+[直接下载 v2 .w3x 地图](https://github.com/Cola0528/AI-/raw/refs/heads/main/maps/AI-Tower-Class-Awakening-LoadFix-v2.w3x)
 
-如果浏览器未开始下载，请[打开地图文件页面](maps/AI-Tower-Class-Awakening-Test.w3x)，点击右上方的 **Download raw file**（向下箭头）。私有仓库需要先登录有访问权限的 GitHub 账号。
+文件名：`AI-Tower-Class-Awakening-LoadFix-v2.w3x`。请使用这个新文件测试，避免误用上一版。
 
-下载后放入魔兽争霸 III 的 Maps 目录，使用与原地图相同、支持 Dz/EX 扩展的客户端打开。
+如果浏览器未开始下载，请[打开地图文件页面](maps/AI-Tower-Class-Awakening-LoadFix-v2.w3x)，点击右上方的 **Download raw file**（向下箭头）。私有仓库需要先登录有访问权限的 GitHub 账号。
 
-## 本次修改
+请在原图能正常运行的同一 KK 对战平台客户端中先测试完整加载。
+
+## v2 修复内容
+
+- v1 新增技能继承了原图精简数据表中已不存在的 ANcl / Aamk 对象；v2 改成原图使用的完整 SLK 记录，补齐技能说明。
+- 原 `war3map.w3a` 恢复为与原图逐字节相同的内容。
+- 移除额外的 `DzFrameSetEnable` 接口依赖；职业初始化改为独立定时回调，增加界面空句柄保护。
+- 保留 v1 错误数据作为回归样例，验证器必须检出其 7 个缺失基类，而 v2 不能出现同类错误。
+
+## 玩法修改
 
 - 泉水房间的转职入口改为独立面板，展示职业定位、技能、被动与转职条件。
 - 三转从第 5 层即可解锁，不要求先通关第 5 层。
@@ -18,16 +27,20 @@
 - 隐藏路线：万象行者 → 万象织法者 → 万象天枢，专属攻击使用三围总和。
 - 冥想真实恢复 3＋施法前智力÷5 点魔法，消耗 1 行动点；临时智力提高 30%，魔法上限保持不变，到期保留已恢复的魔法。
 
-[完整数值、修改说明与实机测试要点](docs/changes-and-testing.md)
+[完整数值、修复说明与实机测试要点](docs/changes-and-testing.md)
 
-[修改后的脚本、对象数据和验证源码](sources/map-patch-and-validation.zip)
+[修改后的脚本、原始必要数据、对象数据和验证源码](sources/map-patch-and-validation.zip)
 
 ## 验证范围
 
-已完成 JASS 静态检查、关键判断与冥想资源变化的模拟检查，以及地图重新打包后的内容核对。当前没有魔兽/KK 客户端，界面显示、多人同步与战斗平衡仍需实机验证。
+已完成 JASS 静态检查、对象依赖回归检查、关键判断与冥想资源变化的模拟检查，以及重新打包后的内容核对。100 个未修改的原有归档资源块逐字节保留。
+
+当前没有魔兽/KK 客户端，无法在这里验证实际加载、界面显示、多人同步和战斗平衡。静态检查通过不等于实机加载通过。
+
+地图大小：14,707,044 字节。
 
 地图 SHA-256：
 
 ```
-2af6ac3c7cabe5c235de2b371a7908a5f5b4fa0db9de2a3dddb7d945bff0caf5
+fd9a95c7db3791b4d082b662817852de4decf65624050eb500f46026bab42073
 ```
