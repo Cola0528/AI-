@@ -1,17 +1,11 @@
-# AI爬塔地图修改版 v17
+# AI爬塔地图 · 源码交接
 
-以用户最新确认能进入的 **AI-Tower-Team-Events-Monk-v12** 为排查基准。v13～v16均已报告无法进入；此前将v14或v13当作可用基准的判断已撤回。
+用户已另行制作并确认可运行的 **v18**；该文件尚未上传到本仓库。仓库内v17曾报告“游戏启动失败”，不要把它当作最新可用版本。
 
-[下载 v17 地图](https://github.com/Cola0528/AI-/raw/refs/heads/main/maps/AI-v17.w3x) · [地图文件页面](maps/AI-v17.w3x) · [已确认可进入的 v12](https://github.com/Cola0528/AI-/raw/332dd9089a0e0e95d360cf4cc9231bd2817c6f99/maps/AI-Tower-Team-Events-Monk-v12.w3x)
+[源码、解包数据与工具交接说明](handoff/README.md) · [下载完整交接包](https://github.com/Cola0528/AI-/raw/refs/heads/main/sources/AI-Tower-Handoff.zip)
 
-- 删除三转运行时改名及可选Lua改名桥接；原生经验条和单位名称沿用原职业名称，自定义转职面板保留三转标题。
-- 重写v13的中文昵称字符识别，移除5个特殊字符字面量，仍保留中文昵称、完整事件文本和玩家颜色。
-- 子弹、气等职业状态复用原来的状态文字框；HUD构造与v12相同，不再新增职业文字框或动态扩高。
-- 去掉多级技能悬停说明中重复的研习提示，保留各级战斗规则；完整研习说明仍在转职面板。
-- 保留17条三转设计、第四轮开放、**30木材＋1000金币**、木材十连和队友记录。
+交接包包含此前确认可进入的v12底包及109个资源块的解包数据、v12生成源码、失败版本v17源码、Python读写工具和检查记录。脚本与SLK/文本数据可编辑，无须先寻找.w3m源图；原作者的GUI触发器工程未保留。
 
-[具体改动与验证](docs/changes-and-testing.md) · [当前布局模拟图](docs/ui-layout-v17.md) · [源码与验证程序](sources/map-patch-and-validation.zip)
+将仓库地址交给接手AI，让它先阅读交接说明，再取得用户另行制作的可运行v18作为后续修改基准。
 
-已通过旧版1.24接口下的JASS编译、对象依赖、昵称与界面、三转、事件和抽奖模拟检查，打包后回读一致。**没有KK客户端，尚未确认闪退根因或v17实际加载成功。** 这是针对新增兼容风险的排查版本。
-
-地图：14,795,130 字节；SHA-256：`febeb697344e1fac1c4a78e0f0484ac92e8f78246a8db4886f672d4e70c155e2`。
+[历史改动与验证记录](docs/changes-and-testing.md) · [旧v17修改源码ZIP](sources/map-patch-and-validation.zip) · [此前可运行v12地图](https://github.com/Cola0528/AI-/raw/332dd9089a0e0e95d360cf4cc9231bd2817c6f99/maps/AI-Tower-Team-Events-Monk-v12.w3x)
