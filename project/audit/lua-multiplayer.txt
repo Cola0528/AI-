@@ -1,0 +1,9 @@
+Different local selection, tooltips, focus and Lua GC leave combat snapshot/RNG unchanged
+Actual troll/warrior roll timers, projectile order, melee damage, poison and damage totals agree on both peers
+Repeated defense consumes action points and grants the same armor to both peers
+Shared chat diagnostic is read-only and uses the same checkpoint on both peers
+Diagnostic detects deliberately different enemy health and player action points
+Original end-turn timers wait for both players before one enemy turn
+Original enemy-turn poison deals positive equal damage and removes one layer on both peers
+Original next-turn callback restores AP, clears temporary armor and unpauses both players
+8 model checks passed. No KK multi-machine runtime verification.

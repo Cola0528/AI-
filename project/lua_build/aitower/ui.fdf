@@ -1,0 +1,88 @@
+Frame "FRAME" "AIPassFrame" {
+    UseActiveContext,
+    LayerStyle "IGNORETRACKEVENTS",
+}
+Frame "BACKDROP" "AIPassBackdrop" {
+    UseActiveContext,
+    LayerStyle "IGNORETRACKEVENTS",
+    BackdropBackground "Textures\Black32.blp",
+    BackdropBlendAll,
+}
+Frame "TEXT" "AIPassText" {
+    UseActiveContext,
+    LayerStyle "IGNORETRACKEVENTS",
+    FrameFont "Fonts\ZiTi.ttf", 0.009, "",
+    FontFlags "FIXEDSIZE",
+    FontJustificationH JUSTIFYLEFT,
+    FontJustificationV JUSTIFYTOP,
+    FontColor 0.91 0.90 0.86 1.0,
+    FontShadowColor 0.0 0.0 0.0 0.0,
+    FontShadowOffset 0.0 0.0,
+    Text "",
+}
+Frame "GLUETEXTBUTTON" "AIButton" {
+    UseActiveContext,
+    ControlStyle "AUTOTRACK|HIGHLIGHTONMOUSEOVER",
+    ButtonPushedTextOffset 0.0 -0.0007,
+    ControlBackdrop "AIButtonNormal",
+    Frame "BACKDROP" "AIButtonNormal" INHERITS "AIPassBackdrop" {
+        BackdropBackground "AITower\button.tga",
+    }
+    ControlPushedBackdrop "AIButtonDown",
+    Frame "BACKDROP" "AIButtonDown" INHERITS "AIPassBackdrop" {
+        BackdropBackground "AITower\down.tga",
+    }
+    ControlDisabledBackdrop "AIButtonDisabled",
+    Frame "BACKDROP" "AIButtonDisabled" INHERITS "AIPassBackdrop" {
+        BackdropBackground "AITower\disabled.tga",
+    }
+    ControlDisabledPushedBackdrop "AIButtonDisabledDown",
+    Frame "BACKDROP" "AIButtonDisabledDown" INHERITS "AIPassBackdrop" {
+        BackdropBackground "AITower\disabled.tga",
+    }
+    ControlMouseOverHighlight "AIButtonHover",
+    Frame "HIGHLIGHT" "AIButtonHover" {
+        LayerStyle "IGNORETRACKEVENTS",
+        HighlightType "FILETEXTURE",
+        HighlightAlphaFile "AITower\hover.tga",
+        HighlightAlphaMode "ADD",
+    }
+    ButtonText "AIButtonText",
+    Frame "TEXT" "AIButtonText" INHERITS "AIPassText" {
+        FontJustificationH JUSTIFYCENTER,
+        FontJustificationV JUSTIFYMIDDLE,
+        FontColor 0.84 0.75 0.57 1.0,
+    }
+}
+Frame "GLUETEXTBUTTON" "AITextButton" {
+    UseActiveContext,
+    ControlStyle "AUTOTRACK|HIGHLIGHTONMOUSEOVER",
+    ControlMouseOverHighlight "AIPlainHover",
+    Frame "HIGHLIGHT" "AIPlainHover" {
+        LayerStyle "IGNORETRACKEVENTS",
+        HighlightType "FILETEXTURE",
+        HighlightAlphaFile "AITower\hover.tga",
+        HighlightAlphaMode "ADD",
+    }
+    ButtonText "AIButtonText",
+    Frame "TEXT" "AIButtonText" INHERITS "AIPassText" {
+        FontJustificationH JUSTIFYCENTER,
+        FontJustificationV JUSTIFYMIDDLE,
+    }
+}
+Frame "GLUETEXTBUTTON" "AIIconButton" {
+    UseActiveContext,
+    ControlStyle "AUTOTRACK|HIGHLIGHTONMOUSEOVER",
+    ControlMouseOverHighlight "AIPlainHover",
+    Frame "HIGHLIGHT" "AIPlainHover" {
+        LayerStyle "IGNORETRACKEVENTS",
+        HighlightType "FILETEXTURE",
+        HighlightAlphaFile "AITower\hover.tga",
+        HighlightAlphaMode "ADD",
+    }
+    ButtonText "AIButtonText",
+    Frame "TEXT" "AIButtonText" INHERITS "AIPassText" {
+        FontJustificationH JUSTIFYCENTER,
+        FontJustificationV JUSTIFYMIDDLE,
+    }
+}

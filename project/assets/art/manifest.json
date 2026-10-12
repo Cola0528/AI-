@@ -1,0 +1,54 @@
+{
+  "generator": "built-in image_gen",
+  "purpose": "Original game artwork; mechanical power-of-two texture encoding only",
+  "assets": [
+    {
+      "name": "talents",
+      "source": "C:\\Users\\lzhlo\\.codex\\generated_images\\01a0de3b-7738-7d63-bafa-1a9935d6c818\\exec-7a9aeda1-d9ab-431d-907d-509093ddac06.png",
+      "originalSize": [
+        1536,
+        1024
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "textureSize": [
+        1024,
+        512
+      ]
+    },
+    {
+      "name": "journey",
+      "source": "C:\\Users\\lzhlo\\.codex\\generated_images\\01a0de3b-7738-7d63-bafa-1a9935d6c818\\exec-32988bfd-ec6f-4be6-85d0-9d3f5b830c00.png",
+      "originalSize": [
+        1536,
+        1024
+      ],
+      "alphaRange": [
+        255,
+        255
+      ],
+      "textureSize": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "reliquary",
+      "source": "C:\\Users\\lzhlo\\.codex\\generated_images\\01a0de3b-7738-7d63-bafa-1a9935d6c818\\exec-c222c98b-17b6-42ff-b920-5c35e6572dc8.png",
+      "originalSize": [
+        1254,
+        1254
+      ],
+      "alphaRange": [
+        0,
+        255
+      ],
+      "textureSize": [
+        512,
+        512
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+# Preserve the exact bytes of the verified delivery snapshot.
+* -text
+*.w3x binary
+*.zip binary
+*.png binary
+*.tga binary
+*.dll binary
+*.exe binary

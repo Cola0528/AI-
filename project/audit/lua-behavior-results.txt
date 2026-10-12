@@ -1,0 +1,19 @@
+Engine model only; KK runtime / cloud persistence not verified.
+17 suites passed
+Lua typed arrays, signed keys, integer division and dispatch
+All 1024 talent bitfields round trip without cross-node corruption
+Prerequisite, three purchases, price escalation, max level and player isolation
+Keystone mutual exclusion, actual-spend refund and no repeated refund
+Abyss insufficient funds, idempotence and next-run snapshot
+Failed cloud read prohibits permanent writes and deductions
+Cloud values preserve I prefix and six-player ownership
+43 mastery values serialize losslessly and within exact integer range
+Shop actions require actual synchronized room entry
+Six difficulties by six party sizes scale units only once
+Real Lua turn token renews shield once on all high-difficulty turns
+Ten thousand actual Lua upgrade draws contain no duplicated choices
+Poison stacks sum six owners and estimate the actual poison source formula
+Synced actions use event owner and immutable payload regardless of local tabs
+Complete native 12-command and six-item set retains engine positions; partial capability leaves native UI
+All game functions load and startup is idempotent including delayed UI callbacks
+Failed startup is latched rather than building another partial world

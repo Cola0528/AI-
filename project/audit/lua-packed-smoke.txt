@@ -1,0 +1,2 @@
+1.0.16 packed entry: startup, delayed mount, original native parents, 18 native controls, idempotent boot passed.
+Engine model only; not Warcraft/KK runtime validation.

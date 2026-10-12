@@ -1,0 +1,7 @@
+Suspended legacy entry reproduces actor present with no game timer
+archery: countdown, actual spawns, duration, native double expiry, all actors cleanup and one route return
+mowing: countdown, actual spawns, duration, native double expiry, all actors cleanup and one route return
+coins: countdown, actual spawns, duration, native double expiry, all actors cleanup and one route return
+skating: countdown, actual spawns, duration, native double expiry, all actors cleanup and one route return
+Spawn failure reports phase, cleans up once and permits a fresh later room without stale failure or duplicate XP
+Engine model only; not Warcraft/KK runtime validation.

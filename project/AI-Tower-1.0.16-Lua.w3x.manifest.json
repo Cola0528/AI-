@@ -1,0 +1,341 @@
+{
+  "map": "C:\\Project\\AI爬塔\\AI-Tower-1.0.16-Lua.w3x",
+  "version": "1.0.16 Lua",
+  "bytes": 19140865,
+  "sha256": "5693e3a874bd44db78054fcc2cf07e80a93ab9034e124cb76e62922eb5549037",
+  "source_sha256": "c587006a08d63670a170e8965496b7e1e31559bed26a995e44a1df4f3b93f0db",
+  "oldBlocksVerified": 109,
+  "originalHashSlotsPreserved": true,
+  "hashTableSize": 128,
+  "newMembers": [
+    "aitower.lua",
+    "AITower\\button.tga",
+    "AITower\\disabled.tga",
+    "AITower\\down.tga",
+    "AITower\\gold.tga",
+    "AITower\\hover.tga",
+    "AITower\\journey.tga",
+    "AITower\\life.tga",
+    "AITower\\mana.tga",
+    "AITower\\panel.tga",
+    "AITower\\rail.tga",
+    "AITower\\reliquary.tga",
+    "AITower\\talents.tga",
+    "AITower\\track.tga",
+    "AITower\\ui.fdf",
+    "AITower\\ui.toc"
+  ],
+  "replacedMembers": [
+    "war3map.j",
+    "war3map.w3i"
+  ],
+  "nativeReadbackCount": 75,
+  "nativeReadback": {
+    "ok": true,
+    "reader": "StormLib",
+    "files": {
+      "BTNXY3 Ico.blp": {
+        "bytes": 7032,
+        "sha256": "b6023ec937cfff316c60411d554ff46c638da2a9e4b6c704a8ff41d88b61307b"
+      },
+      "Fonts\\ZiTi.ttf": {
+        "bytes": 2401756,
+        "sha256": "e745f5b1a053fa0cb9b4bf83f7ff12a3d4ea74c8796a0c822d2897cdf146b791"
+      },
+      "ReplaceableTextures\\CommandButtons\\BTNCrossbowmanWC1.blp": {
+        "bytes": 5600,
+        "sha256": "72a964f97c74fd1ec5955541a6dc651b6e6e43ea64f8a2b7e16594f42a8d3738"
+      },
+      "ReplaceableTextures\\CommandButtons\\BTNMY11.blp": {
+        "bytes": 6555,
+        "sha256": "6946593b8bee3270216b305edf6bb9e726bca66b6f9702e0274d79cb41abfd63"
+      },
+      "UI-AA011.tga": {
+        "bytes": 1877922,
+        "sha256": "1d320a11f306ee941cc62b8d83584002cac2fa0a0e740faf82ee65c3eeed282c"
+      },
+      "fect-02.mdx": {
+        "bytes": 21874,
+        "sha256": "e68e2a4ff9ab69179ce534c00596d6a6829c073269915a61140c1e8b8e8ab350"
+      },
+      "juexing.mp3": {
+        "bytes": 1739936,
+        "sha256": "2a5fc3245a2d7c102a884bad2be613958db16e67a7334455e5fe129b47a3ddba"
+      },
+      "Units\\AbilityData.slk": {
+        "bytes": 132164,
+        "sha256": "12e4e3b6ea0b4946bab242c9325f1796d0618d7f25424dc94527bbd57d22cafb"
+      },
+      "Units\\campaignabilityfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\campaignabilitystrings.txt": {
+        "bytes": 147177,
+        "sha256": "7671903e21b7619119e87f3134aedc8c50cda59240b505e5eb3fd7fe046ee686"
+      },
+      "Units\\campaignunitfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\campaignunitstrings.txt": {
+        "bytes": 61947,
+        "sha256": "7c22986defac3015febae9997171868a8c7322d6b2e7640c3b63230e3c439198"
+      },
+      "Units\\commonabilityfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\commonabilitystrings.txt": {
+        "bytes": 19324,
+        "sha256": "090a82cca427f708ff2712e9adb48ac234165b19746a7f5721b2a96cf09125aa"
+      },
+      "Units\\humanabilityfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\humanabilitystrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\humanunitfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\humanunitstrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\ItemData.slk": {
+        "bytes": 67780,
+        "sha256": "34927c5bbaa7ef232f41c09f6f5c3a1b068215cd38bc2ebe96fed0ccc9cc675a"
+      },
+      "Units\\itemfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\itemstrings.txt": {
+        "bytes": 61270,
+        "sha256": "dcfdef11e3c729a15dc231ee41ea1bb574b42b5b222fd0e82613f1a560e887de"
+      },
+      "Units\\neutralabilityfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\neutralabilitystrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\neutralunitfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\neutralunitstrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\nightelfabilityfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\nightelfabilitystrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\nightelfunitfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\nightelfunitstrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\orcabilityfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\orcabilitystrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\orcunitfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\orcunitstrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\undeadabilityfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\undeadabilitystrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\undeadunitfunc.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\undeadunitstrings.txt": {
+        "bytes": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "Units\\UnitAbilities.slk": {
+        "bytes": 8246,
+        "sha256": "f1cf9fbf69da1f19a5d4df397dd54d1566f8be1a2bca255f72ddb7e05da0d496"
+      },
+      "Units\\UnitBalance.slk": {
+        "bytes": 62700,
+        "sha256": "68b79b46016b8750bb9c98e4486604a863a241ac6e1571cb3e0eb8957fbf31d6"
+      },
+      "Units\\UnitData.slk": {
+        "bytes": 34469,
+        "sha256": "81946de92c671444b30f15bf4263eb9a744d85d18d4626939a4ceb8e13c826d3"
+      },
+      "Units\\UnitUI.slk": {
+        "bytes": 65367,
+        "sha256": "4a7b48f6ee8d5afb3ac3f05410f700939d7e745cda15cf8fe0e581d9af163372"
+      },
+      "Units\\UnitWeapons.slk": {
+        "bytes": 86034,
+        "sha256": "562959de60bff065c93269d5a6ff644a6100423a8ad194b7697b2207a6e8b7e4"
+      },
+      "war3map.doo": {
+        "bytes": 9024,
+        "sha256": "dffe238f5a00ec400b3c86c569e389ddc729a44ee7e76b182adf9a0a528843fa"
+      },
+      "war3map.j": {
+        "bytes": 13225,
+        "sha256": "9156957dcd6f2c7bd2eb461e178edfdaf04ee344dc0141a83561d5569b6db26b"
+      },
+      "war3map.mmp": {
+        "bytes": 248,
+        "sha256": "f49aeeb0080f8d928b33e9617d1023c75dccfd87a80ee22fd5a6c1e05fd464aa"
+      },
+      "war3map.shd": {
+        "bytes": 147456,
+        "sha256": "8123c216413f82bbaa0339c27a43d9822c2a043e20662b27c97874429b996e9a"
+      },
+      "war3map.w3a": {
+        "bytes": 384,
+        "sha256": "31e5eaea75f069eed00e1cfc8c2769fcbdbef0e6ae793611c754cbb6b96b013d"
+      },
+      "war3map.w3e": {
+        "bytes": 65960,
+        "sha256": "b8c952251718d159f35b68ef9d68e18428b21ccac2062576dd04d85797136567"
+      },
+      "war3map.w3i": {
+        "bytes": 964,
+        "sha256": "813769bb2940ee9e4cdd8ad543d8f6e801d0167b9fe5abf96639c542d04ee6d3"
+      },
+      "war3map.wpm": {
+        "bytes": 147472,
+        "sha256": "e133a91ecfe7f083ae0f474796c0fd2cca88fcff43abdee11436ab21db0b75b3"
+      },
+      "war3mapMap.blp": {
+        "bytes": 11028,
+        "sha256": "f90d13143b588cea943885aca8c4f81bc6a8fbfeae56b245c4847d994a96ccb2"
+      },
+      "HopeUI\\modern-ui.toc": {
+        "bytes": 22,
+        "sha256": "188fd5a72eb700cbc5a87b104da67f19430f164f091b95c7432753c71a45d8d3"
+      },
+      "HopeUI\\bar-track.blp": {
+        "bytes": 1350,
+        "sha256": "fa9952b522624bec2552d165bf278adad3a91b25ac6a2096dd745c8e2c736440"
+      },
+      "HopeUI\\button-disabled.blp": {
+        "bytes": 44874,
+        "sha256": "b30f92c1a0326d568d417ea2de6a2c967114fe5ab5dc688178ee737478b8a412"
+      },
+      "HopeUI\\button-down.blp": {
+        "bytes": 44874,
+        "sha256": "f783328b19b1e1c057f8f8a154231ce75dd1e8fe62b1a37b65d6c674931d6148"
+      },
+      "HopeUI\\button-normal.blp": {
+        "bytes": 44874,
+        "sha256": "60705258acbd7a28671b1c21ac51d32920082cfb444edc8720fe3f6afd6dacdf"
+      },
+      "HopeUI\\focus-fill.blp": {
+        "bytes": 1350,
+        "sha256": "b7c2f02c01e7f7d107da68a5ea36c780471689ddf1ca88e7ac5c32383a809a0a"
+      },
+      "HopeUI\\life-fill.blp": {
+        "bytes": 1350,
+        "sha256": "434cb75e45498a1c3c22a7d88af48079b0b3714d579606f2d15f02aca1b6962b"
+      },
+      "HopeUI\\mana-fill.blp": {
+        "bytes": 1350,
+        "sha256": "2e55179d834534d15ecb3cc7869e58f91afb31d4aad01e19d4c5c71419be3526"
+      },
+      "aitower.lua": {
+        "bytes": 2228453,
+        "sha256": "9a6a8c5c2484e752b779080a8d03bf5886c22c6b10fe9879503270a0a72411f8"
+      },
+      "AITower\\button.tga": {
+        "bytes": 16428,
+        "sha256": "e5d46a89b2ab5bc256c238e04f6470a9bec9c19047caaa5dd62357232946eaab"
+      },
+      "AITower\\disabled.tga": {
+        "bytes": 16428,
+        "sha256": "c969c74cf68c3cb0a5fbe58d5106d4c268da7d4c1ade0cd2badbf5f959f381a5"
+      },
+      "AITower\\down.tga": {
+        "bytes": 16428,
+        "sha256": "f03d53f6d4a2219de3c7f0f991ca5bd56f2e1560d09ff3f5140349455cfd5572"
+      },
+      "AITower\\gold.tga": {
+        "bytes": 16428,
+        "sha256": "458fafc8cbf8ab11308be8401ba531bcc16563fc9b86a50142876834c3f8c115"
+      },
+      "AITower\\hover.tga": {
+        "bytes": 16428,
+        "sha256": "b69ba2657b8b938b816a8415234379dadfe6bc27cf7e72abe28687de8bee8187"
+      },
+      "AITower\\journey.tga": {
+        "bytes": 4194348,
+        "sha256": "619413fc0ead377e1c45a19dd8b2a4ef5b12a0c883b539727bc3265ec5bdef5e"
+      },
+      "AITower\\life.tga": {
+        "bytes": 16428,
+        "sha256": "2dd9a6595c185d9ea2339e4aac154ba5cda2f13b0fb6428dd5ec5b3df1a1cfdd"
+      },
+      "AITower\\mana.tga": {
+        "bytes": 16428,
+        "sha256": "e935a68ad82d55176a38ec9b46fa3e7a4b1d1c657df418aa9f53dee56e7be521"
+      },
+      "AITower\\panel.tga": {
+        "bytes": 16428,
+        "sha256": "5940ba9f1f0c63eda2e0255fd81f41530246a2c7423c854c3bbb3b9ca6f3e255"
+      },
+      "AITower\\rail.tga": {
+        "bytes": 16428,
+        "sha256": "5f0710f86c32767474ed85c99592c1c47198ae061ce1907d263aa1b6230f7621"
+      },
+      "AITower\\reliquary.tga": {
+        "bytes": 1048620,
+        "sha256": "873d01b19af73a956e9ec5ab512fa08f452cc0e5c5688a07564803c9da259748"
+      },
+      "AITower\\talents.tga": {
+        "bytes": 2097196,
+        "sha256": "aed68026500ca9d1e9ec9aa9f0bbf6d04b898889cfc5e3146f18a47310763d4b"
+      },
+      "AITower\\track.tga": {
+        "bytes": 16428,
+        "sha256": "3245f132d3811b60f942507827445bb298a65c70099a0ef67233fdc6d2e83f4a"
+      },
+      "AITower\\ui.fdf": {
+        "bytes": 3066,
+        "sha256": "ea4bf08b97e46e2d9aee8ec4ed2a702b42e9a73eeb550ec524ff4fdfaf3c1d97"
+      },
+      "AITower\\ui.toc": {
+        "bytes": 16,
+        "sha256": "7a34c5ef127da2a1bb87415f2c0a4153deab4b7c03cf04588b361d8397b7b45c"
+      }
+    }
+  },
+  "engineTested": false,
+  "cloudCommitTested": false
+}

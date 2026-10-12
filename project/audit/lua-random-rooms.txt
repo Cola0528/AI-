@@ -1,0 +1,17 @@
+Baseline: all four non-combat random outcomes leave next nodes locked until the distant exit region is entered
+Random outcome 1: entry, route access, room hint and duplicate protection
+Random outcome 2: entry, route access, room hint and duplicate protection
+Random outcome 3: entry, route access, room hint and duplicate protection
+Random outcome 4: entry, route access, room hint and duplicate protection
+Random outcome 5: entry, route access, room hint and duplicate protection
+Random outcome 6: entry, route access, room hint and duplicate protection
+Full departure to random outcome 1: real dispatch, player scaling, transport and F3 focus
+Full departure to random outcome 2: real dispatch, player scaling, transport and F3 focus
+Full departure to random outcome 3: real dispatch, player scaling, transport and F3 focus
+Full departure to random outcome 4: real dispatch, player scaling, transport and F3 focus
+Full departure to random outcome 5: real dispatch, player scaling, transport and F3 focus
+Full departure to random outcome 6: real dispatch, player scaling, transport and F3 focus
+Previous battle delayed return is discarded after departure; current battle return still fires once
+Interrupted room reports its failure, keeps the encounter locked and does not replay partial rewards
+F3 ignores a removed mini actor and focuses the hero without local mutation of shared state
+Engine model only; no Warcraft/KK runtime validation.

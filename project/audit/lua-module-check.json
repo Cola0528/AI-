@@ -1,0 +1,227 @@
+{
+  "modules": 44,
+  "allSyntaxPassed": true,
+  "engineTested": false,
+  "modulesIndex": [
+    {
+      "name": "aitower.generated.blizzard",
+      "path": "lua_build\\aitower\\generated\\blizzard.lua",
+      "sha256": "9087471bdb136ac156c7e09fea7a6f9a2ea21ce3b7dcc7e4871882db1b563536"
+    },
+    {
+      "name": "aitower.generated.combat",
+      "path": "lua_build\\aitower\\generated\\combat.lua",
+      "sha256": "1bfde20eb48a68454179e600a2184ed598f55f27ff3e6b843a2af2b86d0eb322"
+    },
+    {
+      "name": "aitower.generated.common",
+      "path": "lua_build\\aitower\\generated\\common.lua",
+      "sha256": "d3399048b32929f9cd8ac44487afb76248559da3cdf1ea0a8ae91418d4b028dc"
+    },
+    {
+      "name": "aitower.generated.compatibility",
+      "path": "lua_build\\aitower\\generated\\compatibility.lua",
+      "sha256": "0a014ea016dc2902f66049e50285ebe3311ec9ec8e77e7b76b65d7fd4a12840b"
+    },
+    {
+      "name": "aitower.generated.economy",
+      "path": "lua_build\\aitower\\generated\\economy.lua",
+      "sha256": "9004bd6c9530d21e222acf06606d3840b6030f1eb45040e5d17d37ab50a72cc6"
+    },
+    {
+      "name": "aitower.generated.globals",
+      "path": "lua_build\\aitower\\generated\\globals.lua",
+      "sha256": "9c52beceae4118ffce931e3d93253dfc8fa0dd7cd6403ce6b6e08078f90b827e"
+    },
+    {
+      "name": "aitower.generated.item_events",
+      "path": "lua_build\\aitower\\generated\\item_events.lua",
+      "sha256": "571c1eb11e2b4fc7f0bc3d791ebfa6415674ee4c939bd8541031a078a23d9d6a"
+    },
+    {
+      "name": "aitower.generated.presentation",
+      "path": "lua_build\\aitower\\generated\\presentation.lua",
+      "sha256": "63bc8a4f05d0e28d8cd9cca3802792c24388c49c1c5daf066e8a7bf4e35f6f56"
+    },
+    {
+      "name": "aitower.generated.progression",
+      "path": "lua_build\\aitower\\generated\\progression.lua",
+      "sha256": "ec5ff4eb037bfc0a7e4f7d7cd5be7400040d5bdbe14ce525a4bf2bae8cc6cca6"
+    },
+    {
+      "name": "aitower.generated.rewards",
+      "path": "lua_build\\aitower\\generated\\rewards.lua",
+      "sha256": "ec414153ab3a727c0a506c15fbf111818ebb749aa08186fd58ea80d9a61dbb5c"
+    },
+    {
+      "name": "aitower.generated.route",
+      "path": "lua_build\\aitower\\generated\\route.lua",
+      "sha256": "1fb1e2030a9a3d91171fd7d223292163698fdf32fe9f8cba6b01583c56305f73"
+    },
+    {
+      "name": "aitower.generated.skill_events",
+      "path": "lua_build\\aitower\\generated\\skill_events.lua",
+      "sha256": "02c6a3d28898994bcc79f5a4dd5dc097bef6adead614a74438a2f211f64e08de"
+    },
+    {
+      "name": "aitower.generated.storage",
+      "path": "lua_build\\aitower\\generated\\storage.lua",
+      "sha256": "16090740ef76702b63d81f3cd45c9a5c639b15d131c2f3e3aa3c4e8b9b1ce410"
+    },
+    {
+      "name": "aitower.generated.world",
+      "path": "lua_build\\aitower\\generated\\world.lua",
+      "sha256": "c7133703bc2cb1cad6e1132bbecfcf214479160677365fd01c6350567ab84eb4"
+    },
+    {
+      "name": "aitower.generated.world_events",
+      "path": "lua_build\\aitower\\generated\\world_events.lua",
+      "sha256": "4ef543a79f96e280373246cad4e7e1bd4590ac031a9529e65be597f8e2d20c2e"
+    },
+    {
+      "name": "aitower.modules",
+      "path": "lua_build\\aitower\\modules.lua",
+      "sha256": "b680ffab528a2d8acec01adf1bc97807a5031a685dbb93da0373d7f86d56efef"
+    },
+    {
+      "name": "aitower.bootstrap",
+      "path": "lua_src\\aitower\\bootstrap.lua",
+      "sha256": "d569202eb4aa24805dbe66056148690b77d40aca45b20788d385e949ccc424d9"
+    },
+    {
+      "name": "aitower.core.events",
+      "path": "lua_src\\aitower\\core\\events.lua",
+      "sha256": "aecb99355d38c0a425a5410010d9df1fd55df1ef43c650dddcc3c421993a6e54"
+    },
+    {
+      "name": "aitower.core.runtime",
+      "path": "lua_src\\aitower\\core\\runtime.lua",
+      "sha256": "8fc86e9a4745dfba4cc474eb8becd75e1ac1f2a37e83667c3e1732ac326ad906"
+    },
+    {
+      "name": "aitower.core.store",
+      "path": "lua_src\\aitower\\core\\store.lua",
+      "sha256": "db8b8f2b20c91013cb91b8cd1c7faeef742c2d126e0b49ce37423d4bf4738a95"
+    },
+    {
+      "name": "aitower.game.armor",
+      "path": "lua_src\\aitower\\game\\armor.lua",
+      "sha256": "029d85df9472f70aea0a7ae3fd65294ce96d445f1100fcaf26b568ba84e445af"
+    },
+    {
+      "name": "aitower.game.catalog",
+      "path": "lua_src\\aitower\\game\\catalog.lua",
+      "sha256": "3fcefadf83ebe5a507393e5d69a6e7ba8c00b5114c1e716c5e4f26f8f86d6642"
+    },
+    {
+      "name": "aitower.game.commands",
+      "path": "lua_src\\aitower\\game\\commands.lua",
+      "sha256": "13749631f4b2ed4b425d5075d00ed566da25ddf9ca98751f5210fe028eb5c1ce"
+    },
+    {
+      "name": "aitower.game.minigames",
+      "path": "lua_src\\aitower\\game\\minigames.lua",
+      "sha256": "3ed5108a4cc4603fef3f4ba58c79f8d383ead5b9d1714d55d48badb6dcb76ba0"
+    },
+    {
+      "name": "aitower.game.rooms",
+      "path": "lua_src\\aitower\\game\\rooms.lua",
+      "sha256": "408f02a74e56f4ee557509b80b8efb2c0759647dc6203a4cc7e1f8dbd1aef894"
+    },
+    {
+      "name": "aitower.game.scene",
+      "path": "lua_src\\aitower\\game\\scene.lua",
+      "sha256": "6cccdbb4ffbb23a9a076ff9c2b7a89dae6168276d7e9a58f30874a9404ac08a5"
+    },
+    {
+      "name": "aitower.game.sync_diagnostics",
+      "path": "lua_src\\aitower\\game\\sync_diagnostics.lua",
+      "sha256": "e9cbe3ca76ce3f89abe5517662b9489d028dc1bf1e89eeb7c2d98921e9f984af"
+    },
+    {
+      "name": "aitower.ui.app",
+      "path": "lua_src\\aitower\\ui\\app.lua",
+      "sha256": "aa598ac6d7fcf9f4586c065445075b0939e43802e54d6f2328b88aafda10dc69"
+    },
+    {
+      "name": "aitower.ui.attribute_text",
+      "path": "lua_src\\aitower\\ui\\attribute_text.lua",
+      "sha256": "aba0b9b36ca4d557acaa349b835dd7819b96a945b89b97a1fc2dd1ab1622008f"
+    },
+    {
+      "name": "aitower.ui.character",
+      "path": "lua_src\\aitower\\ui\\character.lua",
+      "sha256": "bac91b9befe687eaa175196642dc84b023928ebf1b0437f30f32a160eb5a8314"
+    },
+    {
+      "name": "aitower.ui.choice_icons",
+      "path": "lua_src\\aitower\\ui\\choice_icons.lua",
+      "sha256": "2f833001bb3cf8ece2da10c3c31240fe58c6b4a5f0c5c22e19b9dad9c4ffded7"
+    },
+    {
+      "name": "aitower.ui.choices",
+      "path": "lua_src\\aitower\\ui\\choices.lua",
+      "sha256": "8b120923ab35c23c734d018bbc259508a00befadb9a0f728cf945e01098d949d"
+    },
+    {
+      "name": "aitower.ui.collections",
+      "path": "lua_src\\aitower\\ui\\collections.lua",
+      "sha256": "52e4636bb1fa6d7871e2db2b335d5e6acd4e6ca2aadbacfe11a1d6ca56e6b41f"
+    },
+    {
+      "name": "aitower.ui.components",
+      "path": "lua_src\\aitower\\ui\\components.lua",
+      "sha256": "0c857658a7e17ce37657adceb8e3c739915b71bddf17d519573479a831aad578"
+    },
+    {
+      "name": "aitower.ui.encounter",
+      "path": "lua_src\\aitower\\ui\\encounter.lua",
+      "sha256": "f3cadb36d9d4b007f9f1e6d6ccdcb534a5d8c1ca3217b50e4dfa83c4ac155908"
+    },
+    {
+      "name": "aitower.ui.field",
+      "path": "lua_src\\aitower\\ui\\field.lua",
+      "sha256": "bfc732ccb50324ea4941715aded09c16817384170063c2dd9298f3a0b6d77bc7"
+    },
+    {
+      "name": "aitower.ui.hud",
+      "path": "lua_src\\aitower\\ui\\hud.lua",
+      "sha256": "17d9ae35fc6f71a8643697a73cf9b2d2785c6db2dcd52f790aff61331e39a934"
+    },
+    {
+      "name": "aitower.ui.journal",
+      "path": "lua_src\\aitower\\ui\\journal.lua",
+      "sha256": "1950cabede752c50ca4582116320a6b0d8544c3720bebfae501bfeea3a81fe88"
+    },
+    {
+      "name": "aitower.ui.merchant",
+      "path": "lua_src\\aitower\\ui\\merchant.lua",
+      "sha256": "3a12cd6f0d9584bbebd5add3ef1125948a42bfb7cc4fe514c083348f4ab08e41"
+    },
+    {
+      "name": "aitower.ui.native_controls",
+      "path": "lua_src\\aitower\\ui\\native_controls.lua",
+      "sha256": "2f257014f195eba869ec521bfde389c98939419168fb170cc68c042e3a2ac9c9"
+    },
+    {
+      "name": "aitower.ui.routes",
+      "path": "lua_src\\aitower\\ui\\routes.lua",
+      "sha256": "e4ef84556b559eabcf1b407f5c10a49f64aa877230bbff93478351b527df13fe"
+    },
+    {
+      "name": "aitower.ui.tactical",
+      "path": "lua_src\\aitower\\ui\\tactical.lua",
+      "sha256": "c625329e64c0d874f92fe47242ebad3ce960d6633d564a3ef47bea15fb01431b"
+    },
+    {
+      "name": "aitower.ui.textflow",
+      "path": "lua_src\\aitower\\ui\\textflow.lua",
+      "sha256": "609948375e17a0cd36c3771ac18dd28896088f1d5a4bd09ebb7deaf1330f850e"
+    },
+    {
+      "name": "aitower.ui.theme",
+      "path": "lua_src\\aitower\\ui\\theme.lua",
+      "sha256": "d755109ba161b349c517fbe974fe5839f20e247ed647920fa44f06b478dc34e5"
+    }
+  ]
+}

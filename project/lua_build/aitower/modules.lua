@@ -1,0 +1,17 @@
+return {
+    "aitower.generated.common",
+    "aitower.generated.blizzard",
+    "aitower.generated.globals",
+    "aitower.generated.presentation",
+    "aitower.generated.compatibility",
+    "aitower.generated.route",
+    "aitower.generated.progression",
+    "aitower.generated.combat",
+    "aitower.generated.storage",
+    "aitower.generated.world",
+    "aitower.generated.world_events",
+    "aitower.generated.rewards",
+    "aitower.generated.skill_events",
+    "aitower.generated.item_events",
+    "aitower.generated.economy",
+}

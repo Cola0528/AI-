@@ -1,0 +1,880 @@
+{
+  "map": "AI-v18.w3x",
+  "map_sha256": "43786e914ab40af3f11696ce49f75c1fd745aaebe691832f5e08a7d5fd51fd17",
+  "all_live_blocks_extracted": true,
+  "named_entries": 59,
+  "entries": [
+    {
+      "block": 0,
+      "archive_name": "BTNXY3 Ico.blp",
+      "extracted_path": "BTNXY3 Ico.blp",
+      "bytes": 7032,
+      "sha256": "b6023ec937cfff316c60411d554ff46c638da2a9e4b6c704a8ff41d88b61307b",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 1,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-001.bin",
+      "bytes": 60855,
+      "sha256": "b0325e1bb88f5357cd88eb58cfce1896878fef41e6fdcd77320086df915984ca",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 2,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-002.bin",
+      "bytes": 67856,
+      "sha256": "f9ce90c0425a91e7b046713962d098680ee2419fba778af86fc0dde48eee7e2d",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 3,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-003.bin",
+      "bytes": 82523,
+      "sha256": "44eb0f78b504ed581b1d0041db19a3992f0414c81ac40fe65d9a4a3fe415d03b",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 4,
+      "archive_name": "Fonts/ZiTi.ttf",
+      "extracted_path": "Fonts/ZiTi.ttf",
+      "bytes": 2401756,
+      "sha256": "e745f5b1a053fa0cb9b4bf83f7ff12a3d4ea74c8796a0c822d2897cdf146b791",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 5,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-005.bin",
+      "bytes": 3140,
+      "sha256": "75a029cb5365612537e1adabbcbe3ec416011a3dc0ac3f31123c83c31624e3a5",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 6,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-006.bin",
+      "bytes": 350706,
+      "sha256": "45f60aa21827f7f8c7c00f0e0e94a829595d95d52e2ae72499c0dbf550648347",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 7,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-007.bin",
+      "bytes": 350706,
+      "sha256": "56f85113bef81d9e35967fa3b313be86823997980255a88f2e1169f17dae0a70",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 8,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-008.bin",
+      "bytes": 700230,
+      "sha256": "93e7900fc5a3955a820e4227a09f24fdd41acdce109e41e6275760de0645ea1c",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 9,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-009.bin",
+      "bytes": 700230,
+      "sha256": "2a498149bb9da6c68bca0b7fe67992e7856c30de48f229b462cf55b8dbbf7891",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 10,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-010.bin",
+      "bytes": 3086,
+      "sha256": "03067950220535116e5b0a78582860180ecd1042640c12c6c46f78d377d18912",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 11,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-011.bin",
+      "bytes": 4019,
+      "sha256": "f314093bf470ab5c2fd1b210a86c41b422cae5cb25490ed9ffb65ea4ba0d445b",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 12,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-012.bin",
+      "bytes": 4095,
+      "sha256": "1db69ddecd79498e1b40c8d9bdaca732803384dde923b4e62cfec58eee1d4696",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 13,
+      "archive_name": "ReplaceableTextures/CommandButtons/BTNCrossbowmanWC1.blp",
+      "extracted_path": "ReplaceableTextures/CommandButtons/BTNCrossbowmanWC1.blp",
+      "bytes": 5600,
+      "sha256": "72a964f97c74fd1ec5955541a6dc651b6e6e43ea64f8a2b7e16594f42a8d3738",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 14,
+      "archive_name": "ReplaceableTextures/CommandButtons/BTNMY11.blp",
+      "extracted_path": "ReplaceableTextures/CommandButtons/BTNMY11.blp",
+      "bytes": 6555,
+      "sha256": "6946593b8bee3270216b305edf6bb9e726bca66b6f9702e0274d79cb41abfd63",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 15,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-015.bin",
+      "bytes": 97250,
+      "sha256": "cf6e243b6f1457f8f9df96f6b52eecd802ac8b992b3a932fa033fc6bdab227f7",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 16,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-016.bin",
+      "bytes": 52836,
+      "sha256": "4f6e0721043621cc4b7480543c0c54c5ef11c2b5e21ada1155d79db408f64fdc",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 17,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-017.bin",
+      "bytes": 8388652,
+      "sha256": "caae51d08e511cf3bc75dfabd254ad33a1c105fd3953e97ca0e5afbd6d96935f",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 18,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-018.bin",
+      "bytes": 2097196,
+      "sha256": "1b17ec6255df15bc318cc2c6999266abbb47f5aa36ae467fe613848284dc55d4",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 19,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-019.bin",
+      "bytes": 1048620,
+      "sha256": "18aca34bd57733b51a4a36170fc7747f392ad5a7b576a3f75708356a954ffd06",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 20,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-020.bin",
+      "bytes": 1048620,
+      "sha256": "0ba44a1eae67f01bb9975836ecbe0c38cb254c1bb5fe8f0bca558ab7d0372d4e",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 21,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-021.bin",
+      "bytes": 1048620,
+      "sha256": "18aca34bd57733b51a4a36170fc7747f392ad5a7b576a3f75708356a954ffd06",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 22,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-022.bin",
+      "bytes": 1048620,
+      "sha256": "0ba44a1eae67f01bb9975836ecbe0c38cb254c1bb5fe8f0bca558ab7d0372d4e",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 23,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-023.bin",
+      "bytes": 2097196,
+      "sha256": "560ee49873a6ac864117effeda15293a7e0df0e7e1ea7ec2c7434a988e46e644",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 24,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-024.bin",
+      "bytes": 2097196,
+      "sha256": "baac525300d0a761b0ea57f90ed48e19e2a9b2153166ef720fc9497353559e4c",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 25,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-025.bin",
+      "bytes": 2097196,
+      "sha256": "462a253307795ae6fa522472219c199758f443b9327e51c17838390dc5f230ea",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 26,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-026.bin",
+      "bytes": 2097196,
+      "sha256": "45f2096d82007dbb05f5934d3f7cebf859ee253333077d5c7f86740c7ecd00a6",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 27,
+      "archive_name": "UI-AA011.tga",
+      "extracted_path": "UI-AA011.tga",
+      "bytes": 1877922,
+      "sha256": "1d320a11f306ee941cc62b8d83584002cac2fa0a0e740faf82ee65c3eeed282c",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 28,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-028.bin",
+      "bytes": 6264,
+      "sha256": "4e0d2fb1f0e4177d95c88d22fcce50bfe06c02395b304c2f12b759f98d3d9eb8",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 29,
+      "archive_name": "fect-02.mdx",
+      "extracted_path": "fect-02.mdx",
+      "bytes": 21874,
+      "sha256": "e68e2a4ff9ab69179ce534c00596d6a6829c073269915a61140c1e8b8e8ab350",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 30,
+      "archive_name": "juexing.mp3",
+      "extracted_path": "juexing.mp3",
+      "bytes": 1739936,
+      "sha256": "2a5fc3245a2d7c102a884bad2be613958db16e67a7334455e5fe129b47a3ddba",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 31,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-031.bin",
+      "bytes": 1074,
+      "sha256": "6f1ac87c8854f87e95fd9de2c5d3909337e5b3c8cc19074bbfbef3d57f45655b",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 32,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-032.bin",
+      "bytes": 1207,
+      "sha256": "6a95abb4e51d085e17836da4b6c455a2632d4d6d639b35a9be80b2ba3ec24b39",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 33,
+      "archive_name": "Units/AbilityData.slk",
+      "extracted_path": "Units/AbilityData.slk",
+      "bytes": 132164,
+      "sha256": "12e4e3b6ea0b4946bab242c9325f1796d0618d7f25424dc94527bbd57d22cafb",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 34,
+      "archive_name": "Units/campaignabilityfunc.txt",
+      "extracted_path": "Units/campaignabilityfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 35,
+      "archive_name": "Units/campaignabilitystrings.txt",
+      "extracted_path": "Units/campaignabilitystrings.txt",
+      "bytes": 143633,
+      "sha256": "bb6f53a0602890f33de7533553d400668edd18913c275daed68a402e60704c1c",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 36,
+      "archive_name": "Units/campaignunitfunc.txt",
+      "extracted_path": "Units/campaignunitfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 37,
+      "archive_name": "Units/campaignunitstrings.txt",
+      "extracted_path": "Units/campaignunitstrings.txt",
+      "bytes": 61947,
+      "sha256": "7c22986defac3015febae9997171868a8c7322d6b2e7640c3b63230e3c439198",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 38,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-038.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 39,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-039.bin",
+      "bytes": 10551,
+      "sha256": "14cf7213e3659d42fb4ac2ce6163ddf8368a7345c3d5b508f7d5dc640440123f",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 40,
+      "archive_name": "Units/commonabilityfunc.txt",
+      "extracted_path": "Units/commonabilityfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 41,
+      "archive_name": "Units/commonabilitystrings.txt",
+      "extracted_path": "Units/commonabilitystrings.txt",
+      "bytes": 19324,
+      "sha256": "090a82cca427f708ff2712e9adb48ac234165b19746a7f5721b2a96cf09125aa",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 42,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-042.bin",
+      "bytes": 15534,
+      "sha256": "ade830b776a03d14d0c0a279283bde57d19b01fbd57386617bbb73507ce05a28",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 43,
+      "archive_name": "Units/humanabilityfunc.txt",
+      "extracted_path": "Units/humanabilityfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 44,
+      "archive_name": "Units/humanabilitystrings.txt",
+      "extracted_path": "Units/humanabilitystrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 45,
+      "archive_name": "Units/humanunitfunc.txt",
+      "extracted_path": "Units/humanunitfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 46,
+      "archive_name": "Units/humanunitstrings.txt",
+      "extracted_path": "Units/humanunitstrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 47,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-047.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 48,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-048.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 49,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-049.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 50,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-050.bin",
+      "bytes": 9376,
+      "sha256": "1c3e1f9a76584b1ea3f7584467219c3515f3d40d6d014bbc2c772d891c3580e8",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 51,
+      "archive_name": "Units/ItemData.slk",
+      "extracted_path": "Units/ItemData.slk",
+      "bytes": 65925,
+      "sha256": "007465a362f8e8d87e421169f5473475203af536e2a17d0de8a86f881f3cd3dc",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 52,
+      "archive_name": "Units/itemfunc.txt",
+      "extracted_path": "Units/itemfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 53,
+      "archive_name": "Units/itemstrings.txt",
+      "extracted_path": "Units/itemstrings.txt",
+      "bytes": 58430,
+      "sha256": "5beea798c03ce8670fe8d4a17093ba5bd992c74f0e72d232aa8612dee6cab4ee",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 54,
+      "archive_name": "Units/neutralabilityfunc.txt",
+      "extracted_path": "Units/neutralabilityfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 55,
+      "archive_name": "Units/neutralabilitystrings.txt",
+      "extracted_path": "Units/neutralabilitystrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 56,
+      "archive_name": "Units/neutralunitfunc.txt",
+      "extracted_path": "Units/neutralunitfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 57,
+      "archive_name": "Units/neutralunitstrings.txt",
+      "extracted_path": "Units/neutralunitstrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 58,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-058.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 59,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-059.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 60,
+      "archive_name": "Units/nightelfabilityfunc.txt",
+      "extracted_path": "Units/nightelfabilityfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 61,
+      "archive_name": "Units/nightelfabilitystrings.txt",
+      "extracted_path": "Units/nightelfabilitystrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 62,
+      "archive_name": "Units/nightelfunitfunc.txt",
+      "extracted_path": "Units/nightelfunitfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 63,
+      "archive_name": "Units/nightelfunitstrings.txt",
+      "extracted_path": "Units/nightelfunitstrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 64,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-064.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 65,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-065.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 66,
+      "archive_name": "Units/orcabilityfunc.txt",
+      "extracted_path": "Units/orcabilityfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 67,
+      "archive_name": "Units/orcabilitystrings.txt",
+      "extracted_path": "Units/orcabilitystrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 68,
+      "archive_name": "Units/orcunitfunc.txt",
+      "extracted_path": "Units/orcunitfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 69,
+      "archive_name": "Units/orcunitstrings.txt",
+      "extracted_path": "Units/orcunitstrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 70,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-070.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 71,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-071.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 72,
+      "archive_name": "Units/undeadabilityfunc.txt",
+      "extracted_path": "Units/undeadabilityfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 73,
+      "archive_name": "Units/undeadabilitystrings.txt",
+      "extracted_path": "Units/undeadabilitystrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 74,
+      "archive_name": "Units/undeadunitfunc.txt",
+      "extracted_path": "Units/undeadunitfunc.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 75,
+      "archive_name": "Units/undeadunitstrings.txt",
+      "extracted_path": "Units/undeadunitstrings.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 76,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-076.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 77,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-077.bin",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 78,
+      "archive_name": "Units/UnitAbilities.slk",
+      "extracted_path": "Units/UnitAbilities.slk",
+      "bytes": 8246,
+      "sha256": "f1cf9fbf69da1f19a5d4df397dd54d1566f8be1a2bca255f72ddb7e05da0d496",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 79,
+      "archive_name": "Units/UnitBalance.slk",
+      "extracted_path": "Units/UnitBalance.slk",
+      "bytes": 62700,
+      "sha256": "68b79b46016b8750bb9c98e4486604a863a241ac6e1571cb3e0eb8957fbf31d6",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 80,
+      "archive_name": "Units/UnitData.slk",
+      "extracted_path": "Units/UnitData.slk",
+      "bytes": 34469,
+      "sha256": "81946de92c671444b30f15bf4263eb9a744d85d18d4626939a4ceb8e13c826d3",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 81,
+      "archive_name": "Units/UnitUI.slk",
+      "extracted_path": "Units/UnitUI.slk",
+      "bytes": 65367,
+      "sha256": "4a7b48f6ee8d5afb3ac3f05410f700939d7e745cda15cf8fe0e581d9af163372",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 82,
+      "archive_name": "Units/UnitWeapons.slk",
+      "extracted_path": "Units/UnitWeapons.slk",
+      "bytes": 86034,
+      "sha256": "562959de60bff065c93269d5a6ff644a6100423a8ad194b7697b2207a6e8b7e4",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 83,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-083.bin",
+      "bytes": 6885,
+      "sha256": "e0d3976f60120a65cf831043ac203ed8e45964152bc21641a5b8bc08a3b470d2",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 84,
+      "archive_name": "war3map.doo",
+      "extracted_path": "war3map.doo",
+      "bytes": 9024,
+      "sha256": "dffe238f5a00ec400b3c86c569e389ddc729a44ee7e76b182adf9a0a528843fa",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 85,
+      "archive_name": "war3map.j",
+      "extracted_path": "war3map.j",
+      "bytes": 1545116,
+      "sha256": "66be1e519dd65f1d9dfecf5410cdb0b803b51e0fee9345a07743f87ccae71ce1",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 86,
+      "archive_name": "war3map.mmp",
+      "extracted_path": "war3map.mmp",
+      "bytes": 248,
+      "sha256": "f49aeeb0080f8d928b33e9617d1023c75dccfd87a80ee22fd5a6c1e05fd464aa",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 87,
+      "archive_name": "war3map.shd",
+      "extracted_path": "war3map.shd",
+      "bytes": 147456,
+      "sha256": "8123c216413f82bbaa0339c27a43d9822c2a043e20662b27c97874429b996e9a",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 88,
+      "archive_name": "war3map.w3a",
+      "extracted_path": "war3map.w3a",
+      "bytes": 384,
+      "sha256": "31e5eaea75f069eed00e1cfc8c2769fcbdbef0e6ae793611c754cbb6b96b013d",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 89,
+      "archive_name": "war3map.w3e",
+      "extracted_path": "war3map.w3e",
+      "bytes": 65960,
+      "sha256": "b8c952251718d159f35b68ef9d68e18428b21ccac2062576dd04d85797136567",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 90,
+      "archive_name": "war3map.w3i",
+      "extracted_path": "war3map.w3i",
+      "bytes": 1188,
+      "sha256": "d07d7655578677339053f9d016876cc1fac271bc904697624368edbfbf4ca761",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 91,
+      "archive_name": "war3map.wpm",
+      "extracted_path": "war3map.wpm",
+      "bytes": 147472,
+      "sha256": "e133a91ecfe7f083ae0f474796c0fd2cca88fcff43abdee11436ab21db0b75b3",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 92,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-092.bin",
+      "bytes": 75640,
+      "sha256": "f95bbccbcf5634b93ddb1e0f5fe49349f41720d75c764e699d3ca9ce4059ecc2",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 93,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-093.bin",
+      "bytes": 78093,
+      "sha256": "ebd5a368562c332470db2579883a19e95f75a467013933afea069b4934435a24",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 94,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-094.bin",
+      "bytes": 121253,
+      "sha256": "b791c03721a01a89f27d5531c67183716050bb6cb9c7e5da6d3bf51f9c9a5ee6",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 95,
+      "archive_name": "war3mapMap.blp",
+      "extracted_path": "war3mapMap.blp",
+      "bytes": 11028,
+      "sha256": "f90d13143b588cea943885aca8c4f81bc6a8fbfeae56b245c4847d994a96ccb2",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 96,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-096.bin",
+      "bytes": 1062,
+      "sha256": "e73cf1b0950483f8844faed7a5e66ee156f168e02473a613cdb4c6d5e1e24b89",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 97,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-097.bin",
+      "bytes": 345,
+      "sha256": "7c5cf20e69b1531be4bbe083aa615e4d0c7935cadf51d585a4e27f7d88080752",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 98,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-098.bin",
+      "bytes": 2499,
+      "sha256": "4c01bf4b8cdcbb30fb770025b30504a392626f684dc8e3b9f1941ec99378ecb9",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 99,
+      "archive_name": "HopeUI/modern-ui.toc",
+      "extracted_path": "HopeUI/modern-ui.toc",
+      "bytes": 22,
+      "sha256": "188fd5a72eb700cbc5a87b104da67f19430f164f091b95c7432753c71a45d8d3",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 100,
+      "archive_name": "HopeUI/bar-track.blp",
+      "extracted_path": "HopeUI/bar-track.blp",
+      "bytes": 1350,
+      "sha256": "fa9952b522624bec2552d165bf278adad3a91b25ac6a2096dd745c8e2c736440",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 101,
+      "archive_name": "HopeUI/button-disabled.blp",
+      "extracted_path": "HopeUI/button-disabled.blp",
+      "bytes": 44874,
+      "sha256": "b30f92c1a0326d568d417ea2de6a2c967114fe5ab5dc688178ee737478b8a412",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 102,
+      "archive_name": "HopeUI/button-down.blp",
+      "extracted_path": "HopeUI/button-down.blp",
+      "bytes": 44874,
+      "sha256": "f783328b19b1e1c057f8f8a154231ce75dd1e8fe62b1a37b65d6c674931d6148",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 103,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-103.bin",
+      "bytes": 44874,
+      "sha256": "010dc415c37ad1a002319df8304b7c025e4687f71a083a2accddf9f2e9a50b82",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 104,
+      "archive_name": "HopeUI/button-normal.blp",
+      "extracted_path": "HopeUI/button-normal.blp",
+      "bytes": 44874,
+      "sha256": "60705258acbd7a28671b1c21ac51d32920082cfb444edc8720fe3f6afd6dacdf",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 105,
+      "archive_name": "HopeUI/focus-fill.blp",
+      "extracted_path": "HopeUI/focus-fill.blp",
+      "bytes": 1350,
+      "sha256": "b7c2f02c01e7f7d107da68a5ea36c780471689ddf1ca88e7ac5c32383a809a0a",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 106,
+      "archive_name": "HopeUI/life-fill.blp",
+      "extracted_path": "HopeUI/life-fill.blp",
+      "bytes": 1350,
+      "sha256": "434cb75e45498a1c3c22a7d88af48079b0b3714d579606f2d15f02aca1b6962b",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 107,
+      "archive_name": "HopeUI/mana-fill.blp",
+      "extracted_path": "HopeUI/mana-fill.blp",
+      "bytes": 1350,
+      "sha256": "2e55179d834534d15ecb3cc7869e58f91afb31d4aad01e19d4c5c71419be3526",
+      "flags": "0x80000200"
+    },
+    {
+      "block": 108,
+      "archive_name": null,
+      "extracted_path": "_unnamed/block-108.bin",
+      "bytes": 1350,
+      "sha256": "ea35f1ccde40d573251fe4e0a3b0890f4ea535c1a08cb0b5e1d7116430cc9249",
+      "flags": "0x80000200"
+    }
+  ]
+}

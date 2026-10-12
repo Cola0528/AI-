@@ -1,0 +1,4 @@
+Parse successful:     2418 lines: C:/Project/爬塔/analysis/audit/engine-defaults/War3Patch.mpq_Scripts_common.j
+Parse successful:    10230 lines: C:/Project/爬塔/analysis/audit/engine-defaults/War3Patch.mpq_Scripts_Blizzard.j
+Parse successful:      231 lines: lua_build/war3map.j
+Parse successful:    12879 lines: <total>

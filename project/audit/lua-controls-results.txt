@@ -1,0 +1,10 @@
+Engine model only; native rendering and clicks not verified in Warcraft.
+8 suites passed
+All six potion abilities consume exactly one, heal, refresh zero count, and cannot heal empty
+Upgrade card click applies original stat effect to owner and rejects wrong owner / replay
+R replacement callback removes old ability, grants new one and updates passive modifiers once
+Hero learned-skill event applies defense, spell, focus, potion and action-cap benefits
+Third profession study consumes points, caps at three and refuses outside the spring room
+Pending upgrade reopen preserves its four candidates and does not spend another point
+Full hero inventory sends loot to helper; two full bags keep loot on the ground
+Hidden profession replacement preserves six items, learned training, R and potion abilities

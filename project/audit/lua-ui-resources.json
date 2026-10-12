@@ -1,0 +1,491 @@
+{
+  "assets": [
+    {
+      "name": "AITower\\gold.tga",
+      "source": "local Lua asset",
+      "bytes": 16428,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\d17a23b15136f44e.png"
+    },
+    {
+      "name": "AITower\\journey.tga",
+      "source": "local Lua asset",
+      "bytes": 4194348,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\2fd2542ad3813828.png"
+    },
+    {
+      "name": "AITower\\life.tga",
+      "source": "local Lua asset",
+      "bytes": 16428,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\95927bd05b006ef4.png"
+    },
+    {
+      "name": "AITower\\mana.tga",
+      "source": "local Lua asset",
+      "bytes": 16428,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\01582a3b56c311f0.png"
+    },
+    {
+      "name": "AITower\\panel.tga",
+      "source": "local Lua asset",
+      "bytes": 16428,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\62be7a3f5ccff729.png"
+    },
+    {
+      "name": "AITower\\reliquary.tga",
+      "source": "local Lua asset",
+      "bytes": 1048620,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\41573a8eeb783f99.png"
+    },
+    {
+      "name": "AITower\\talents.tga",
+      "source": "local Lua asset",
+      "bytes": 2097196,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\637896488ef94c75.png"
+    },
+    {
+      "name": "AITower\\track.tga",
+      "source": "local Lua asset",
+      "bytes": 16428,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\0989f79f57671255.png"
+    },
+    {
+      "name": "BTNXY3 Ico.blp",
+      "source": "C:\\Project\\AI爬塔\\AI-v19-UI2.w3x",
+      "bytes": 7032,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\d066e666aacdfcb8.png"
+    },
+    {
+      "name": "Doodads\\LordaeronSummer\\Props\\Brazier\\Brazier.mdx",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 5139,
+      "preview": null
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNAbsorbMagic.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 8202,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\f8e2e2955ada0b2e.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNArcaniteMelee.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7771,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\9add281d56184bac.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNAvengingWatcherOn.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 8355,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\bc1075ea67047592.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNBansheeAdept.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8291,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\60371cf7dcc7eecc.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNBansheeMaster.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 9205,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\ccac3bba768e3d30.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNBarkskin.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7285,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\4dec45e865346a59.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNBerserk.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7234,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\fecb4f98c70de275.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNBootsOfSpeed.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8058,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\661225a8da7dbc9f.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNBrilliance.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7685,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\ef2fc8ea7fca8e0f.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNBundleOfLumber.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 8758,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\41ba159e673a81ec.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNCannibalize.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8611,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\0ec211bfa6dea535.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNChestOfGold.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 8930,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\7e09de7a7252a858.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNClawsOfAttack.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8431,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\7d4f045dac82617f.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNCriticalStrike.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8637,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\946b4f31422860c2.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNDarkSummoning.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 9150,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\2f497902b948e2fb.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNDeathAndDecay.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8019,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\193e98668f7bbe79.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNDeathPact.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8019,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\6118febce14e5978.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNDefend.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7416,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\6822fec47ec69f78.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNDevourMagic.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 7454,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\22e360391476036b.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNFootman.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8152,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\dcc24dd878e03c87.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNFrostArmorOn.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 9332,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\d47f4580b2a354d3.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNGauntletsOfOgrePower.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8763,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\face46b9b6d22c27.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNGolemThunderclap.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8170,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\b1bce5ee044aa450.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNGrunt.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8071,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\b6975a409843176f.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNHeal.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7451,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\2b0aa36ae34c284d.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNHealingSalve.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 7724,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\53b248c573f65d25.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNHelmOfValor.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8711,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\38fa2b7da76a876f.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNHumanArmorUpOne.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7012,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\69e9d09e4bf25646.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNHumanCaptureFlag.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7382,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\ca7afdbe75b8997a.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNHumanMissileUpOne.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7481,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\ce873ae86c10bca3.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNHumanMissileUpTwo.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7997,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\0dd254d7789bdae2.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNImprovedUnholyStrength.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 9631,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\7a9a177e516b8eda.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNInfernal.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7498,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\fcdd922a92612031.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNKnight.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7833,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\9e85e25257a0ad7e.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNLGExchange.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7561,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\215ca67b2b26c471.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNMGExchange.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8507,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\a71c47121be5079d.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNMY11.blp",
+      "source": "C:\\Project\\AI爬塔\\AI-v19-UI2.w3x",
+      "bytes": 6555,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\cce0e15e6c45403c.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNManaShield.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 9145,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\161d83f1bb77c5d3.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNMantleOfIntelligence.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8357,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\d4d38901b648f65c.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNMedalionOfCourage.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8587,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\b11ec0380f8a20ed.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNMetamorphosis.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7775,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\5f827bc26029779e.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNMoonStone.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 7719,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\ac52e14c08c99b4e.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNNecromancerMaster.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8596,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\61697d5bea5b77c0.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNOrbOfDarkness.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 7964,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\f553f6c48ed900ad.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNOrbOfFire.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7078,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\738cc47f6e1f36fa.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNOrbOfLightning.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 5619,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\14ff0ddd43e5fc98.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNPendantOfEnergy.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8450,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\801dac859a707b18.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNPendantOfMana.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8496,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\6fc6aaffa7404429.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNPeriapt.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8233,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\7e6da3c6a03cf2cf.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNPitLord.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8750,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\79a7ac3d9d1dd6d6.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNPotionBlueBig.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8264,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\7f3f11e02db1b786.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNPotionGreen.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7153,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\d4595c75d0533876.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNPotionGreenSmall.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7961,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\cb5a56eb1d9aba72.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNRejuvenation.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 9240,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\72bae9b2619ef4c7.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNReplay-Loop.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 5576,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\833efbcdeb5d3b85.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNReturnGoods.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 6235,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\e3ad66ca1c507a9f.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNScrollOfTownPortal.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8001,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\f7fbeeef28af9228.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNShamanMaster.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7996,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\5024ba8bc11edf4d.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNSlippersOfAgility.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 6015,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\c3dc31558572fc48.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNSoulGem.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 6477,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\63b707b2be31be50.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNSpellShieldAmulet.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 8350,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\e55475b58071c663.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNSpy.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 6655,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\bf2b496c635dd1e1.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNStaffOfTeleportation.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 8646,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\93e66829c7e77f4a.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNSteelMelee.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7554,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\46305979f7381200.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNStormBolt.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 7592,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\f308689190b18afd.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNTransmute.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3Patch.mpq",
+      "bytes": 8389,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\86b2790ba2d3fb51.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNTrueshot.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8962,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\ec85d7fa07b6e796.png"
+    },
+    {
+      "name": "ReplaceableTextures\\CommandButtons\\BTNWitchDoctorAdept.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8256,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\621e3a5f605bc102.png"
+    },
+    {
+      "name": "ReplaceableTextures\\PassiveButtons\\PASBTNHardenedSkin.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 7058,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\fd39f5fcc1de96f9.png"
+    },
+    {
+      "name": "ReplaceableTextures\\PassiveButtons\\PASBTNStatUp.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\War3x.mpq",
+      "bytes": 4656,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\22619d231221bfe4.png"
+    },
+    {
+      "name": "ReplaceableTextures\\PassiveButtons\\PASBTNStormHammer.blp",
+      "source": "C:\\Program Files (x86)\\Warcraft3\\war3.mpq",
+      "bytes": 8027,
+      "preview": "C:\\Project\\AI爬塔\\audit\\lua-native-icons\\873a806ff85fc35b.png"
+    }
+  ],
+  "missing": []
+}

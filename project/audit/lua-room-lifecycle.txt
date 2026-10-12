@@ -1,0 +1,5 @@
+Unfixed original coin-room entry reproduces two actors per player when entered twice
+Countdown, active play and finishing reject repeated entry without extra XP or timers
+Cleanup removes every temporary actor including disconnected players, preserving heroes and bags
+Event records reset on departure, aggregate teammates and start fresh on the second event
+Engine model only; no Warcraft/KK runtime validation.
